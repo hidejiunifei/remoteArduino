@@ -1,7 +1,7 @@
 # remoteArduino
 
-Serial baud rate used 9600
-Ir Remote library used IRremote by shirriff z3t0 Version 2.8.0
+Serial baud rate used 9600.
+Ir Remote library used IRremote by shirriff z3t0 Version 2.8.0.
 https://github.com/z3t0/Arduino-IRremote
 Emitter module used KY-005
 Receiver module used KY-002
